@@ -258,8 +258,10 @@ Use [Jest](https://facebook.github.io/jest/) for unit test.
 Plus you can use to test other Javascript framework (React, Angular, Vue, etc)
 
 
+* **Snack Expo**
+
 Instantly test your code on a device, or in the browser
-Creating a new snack couldn’t be easier. Just head over to https://snack.expo.io and start typing. You can either preview the component on the emulator inside the browser, or open it directly on your device with the Expo app.
+Creating a new [snack](https://snack.expo.io) couldn’t be easier. Just head over to _https://snack.expo.io_ and start typing. You can either preview the component on the emulator inside the browser, or open it directly on your device with the Expo app.
 
 They are awesome, because if I want to try out something small quickly, I don’t have to setup a new project which can take quite some time. And not to mention, they make sharing demos super-easy, both for the creators and people who want to try it out. You can just tweak an existing demo and see changes in real time, which is great.
 
@@ -268,7 +270,7 @@ They are awesome, because if I want to try out something small quickly, I don’
 
 Use [Redux form](https://redux-form.com) to manage your form state in Redux.
 
-Or its new alternative [Formik](https://github.com/jaredpalmer/formik
+Or try the new alternative [Formik](https://github.com/jaredpalmer/formik).
 
 
 
